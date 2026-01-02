@@ -1,0 +1,1 @@
+{"uuid":"8d5db301-8977-4229-b63a-bbd29f5d8cb2","name":"reqres.test.ReqresUserWorkflowTest","children":["c37290aa-f192-4ff2-95ee-393b22e46f9b"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1767275825620,"stop":1767275826303}],"afters":[],"start":1767275825578,"stop":1767275828091}
